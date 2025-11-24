@@ -1,152 +1,152 @@
-# 💼 Portfolio v2 - Site Personnel
+# 💼 Portfolio v2 - Personal Website
 
-Portfolio personnel moderne développé en JavaScript pour présenter mes projets et compétences.
+Modern personal portfolio developed in JavaScript to showcase my projects and skills.
 
-> 🔄 **Version 2** - Portfolio amélioré avec un design plus moderne et professionnel.
+> 🔄 **Version 2** - Improved portfolio with a more modern and professional design.
 
 ## 📋 Description
 
-Site portfolio personnel présentant mes projets, compétences, parcours et moyens de contact. Design responsive et interface intuitive pour une expérience utilisateur optimale.
+Personal portfolio website presenting my projects, skills, background, and contact information. Responsive design and intuitive interface for optimal user experience.
 
-## ✨ Fonctionnalités
+## ✨ Features
 
-- 👤 **Section À propos** - Présentation personnelle et parcours
-- 💼 **Portfolio de projets** - Showcase de mes réalisations
-- 🛠️ **Compétences techniques** - Technologies maîtrisées
-- 📚 **Parcours** - Formation et expériences
-- 📧 **Formulaire de contact** - Pour me joindre facilement
-- 📱 **Design responsive** - Compatible mobile, tablette et desktop
-- ⚡ **Performance optimisée** - Chargement rapide
+- 👤 **About section** - Personal presentation and background
+- 💼 **Project portfolio** - Showcase of my achievements
+- 🛠️ **Technical skills** - Technologies mastered
+- 📚 **Background** - Education and experience
+- 📧 **Contact form** - Easy way to reach me
+- 📱 **Responsive design** - Mobile, tablet and desktop compatible
+- ⚡ **Optimized performance** - Fast loading
 
-## 🛠️ Technologies utilisées
+## 🛠️ Technologies Used
 
-- **HTML5** - Structure sémantique
-- **CSS3** - Styling moderne avec animations
-- **JavaScript (ES6+)** - Interactivité et logique
-- **Responsive Design** - Adaptatif à tous les écrans
+- **HTML5** - Semantic structure
+- **CSS3** - Modern styling with animations
+- **JavaScript (ES6+)** - Interactivity and logic
+- **Responsive Design** - Adaptive to all screens
 
-### Bibliothèques potentielles
-- Animations CSS/JS
+### Potential Libraries
+- CSS/JS Animations
 - Icons (Font Awesome / Feather Icons)
-- Formulaire de contact
+- Contact form
 
 ## 🚀 Installation
 
 ```bash
-# Cloner le repository
+# Clone the repository
 git clone https://github.com/Allstarjo/Portfolio_v2.git
 cd Portfolio_v2
 
-# Ouvrir dans le navigateur
-# Option 1: Double-cliquer sur index.html
-# Option 2: Utiliser un serveur local
+# Open in browser
+# Option 1: Double-click on index.html
+# Option 2: Use a local server
 python -m http.server 8000
-# ou
+# or
 npx serve
 ```
 
-Accéder à `http://localhost:8000`
+Access at `http://localhost:8000`
 
-## 📊 Structure du projet
+## 📊 Project Structure
 
 ```
 Portfolio_v2/
-├── index.html           # Page principale
+├── index.html           # Main page
 ├── css/
-│   ├── style.css       # Styles principaux
+│   ├── style.css       # Main styles
 │   └── responsive.css  # Media queries
 ├── js/
-│   ├── main.js         # Logique principale
+│   ├── main.js         # Main logic
 │   └── animations.js   # Animations
 ├── assets/
-│   ├── images/         # Images et photos
-│   ├── icons/          # Icônes
-│   └── documents/      # CV et autres docs
+│   ├── images/         # Images and photos
+│   ├── icons/          # Icons
+│   └── documents/      # Resume and other docs
 └── README.md
 ```
 
-## 🎨 Sections du portfolio
+## 🎨 Portfolio Sections
 
 ### 1. Hero Section
-- Présentation impactante
-- Titre et rôle
+- Impactful presentation
+- Title and role
 - Call-to-action
 
-### 2. À propos
-- Parcours professionnel
-- Passions et intérêts
-- Photo professionnelle
+### 2. About
+- Professional background
+- Passions and interests
+- Professional photo
 
-### 3. Compétences
-- Langages de programmation
-- Frameworks et outils
+### 3. Skills
+- Programming languages
+- Frameworks and tools
 - Soft skills
 
-### 4. Projets
-- Showcase de projets majeurs
-- Descriptions et technologies
-- Liens vers démos et repos GitHub
+### 4. Projects
+- Major project showcase
+- Descriptions and technologies
+- Links to demos and GitHub repos
 
-### 5. Parcours
-- Formation académique
-- Expériences professionnelles
+### 5. Background
+- Academic education
+- Professional experience
 - Certifications
 
 ### 6. Contact
-- Formulaire de contact
-- Liens réseaux sociaux
-- Email et GitHub
+- Contact form
+- Social media links
+- Email and GitHub
 
-## 🎯 Objectifs du projet
+## 🎯 Project Objectives
 
-- Créer une vitrine professionnelle en ligne
-- Démontrer mes compétences en développement web
-- Faciliter la prise de contact par les recruteurs
-- Présenter mes projets de manière attractive
+- Create a professional online showcase
+- Demonstrate web development skills
+- Facilitate contact by recruiters
+- Present projects attractively
 
-## 🔮 Améliorations futures
+## 🔮 Future Improvements
 
-- [ ] Refonte complète en React (v3)
-- [ ] Ajout d'un blog technique
-- [ ] Mode sombre / clair
-- [ ] Section témoignages
-- [ ] Intégration d'une newsletter
-- [ ] Multilangue (FR/EN)
-- [ ] Analytics et statistiques de visite
+- [ ] Complete React rebuild (v3)
+- [ ] Add technical blog
+- [ ] Dark / light mode
+- [ ] Testimonials section
+- [ ] Newsletter integration
+- [ ] Multilingual (EN/FR)
+- [ ] Analytics and visit statistics
 
 ## 📈 Versions
 
-- **v1.0** - Portfolio initial basique
-- **v2.0** - Design moderne et améliorations *(version actuelle)*
-- **v3.0** - Refonte React *(prévue)*
+- **v1.0** - Basic initial portfolio
+- **v2.0** - Modern design and improvements *(current version)*
+- **v3.0** - React rebuild *(planned)*
 
-## 💡 Points forts
+## 💡 Strengths
 
-- ✅ Design moderne et professionnel
-- ✅ Code propre et commenté
-- ✅ Performance optimisée
+- ✅ Modern and professional design
+- ✅ Clean and commented code
+- ✅ Optimized performance
 - ✅ SEO friendly
-- ✅ Accessibilité (a11y)
+- ✅ Accessibility (a11y)
 
-## 📚 Ce que j'ai appris
+## 📚 What I Learned
 
-- Design UI/UX et expérience utilisateur
-- Animations CSS et JavaScript
-- Optimisation des performances web
-- Responsive design et mobile-first
-- Best practices du développement front-end
+- UI/UX design and user experience
+- CSS and JavaScript animations
+- Web performance optimization
+- Responsive design and mobile-first
+- Front-end development best practices
 
-## 👤 Auteur
+## 👤 Author
 
 **Jonathan Amon**
-- 🎓 Bachelor IA & Big Data
-- 💻 Développeur Full-Stack
+- 🎓 Bachelor's in AI & Big Data
+- 💻 Full-Stack Developer
 - 📍 Lyon, France
 
-### Liens
+### Links
 - GitHub: [@Allstarjo](https://github.com/Allstarjo)
 - Email: jonathamon00@gmail.com
-- Site: [À venir]
+- Website: [Coming soon]
 
 ## 📝 License
 
@@ -154,4 +154,4 @@ MIT License
 
 ---
 
-⭐ Version 2 du portfolio - Design moderne et professionnel !
+⭐ Portfolio Version 2 - Modern and professional design!
